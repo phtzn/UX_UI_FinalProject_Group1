@@ -378,7 +378,6 @@ a:active {
 .feature-list .btn-main {
   margin-top: 15px;
 }
-
 /*--
   Gallery start
 --*/
@@ -541,3 +540,7 @@ footer p.copyright-text a:hover {
 }
 
 /*# sourceMappingURL=maps/style.css.map */
+
+#creators img {
+  height: 300px;
+}
