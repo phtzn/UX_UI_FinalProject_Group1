@@ -363,6 +363,9 @@ a:active {
   color: #fff;
 }
 
+.separator {
+  size: a;
+}
 /*--
     feature start
 --*/
@@ -448,7 +451,7 @@ footer p.copyright-text a:hover {
 /*# sourceMappingURL=maps/style.css.map */
 
 #creators img {
-  height: 300px;
+  height: 400px;
 }
 
 .contact-clean {
